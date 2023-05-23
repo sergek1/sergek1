@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sergek
-- 👀 I’m interested in С++ development and Android Mobile Development on Kotlin
+- 👀 I’m interested in С++ and Android Mobile Development on Kotlin
 - 🌱 I’m currently learning data structures and algorithms on C++
 - 💞️ I’m looking to collaborate on creation applications on Qt or Android Studio using C++ or Kotlin respectively
 - 📫 How to reach me: telegram @sergeksss, email serg.seden@yandex.ru, instagram sergek.s
