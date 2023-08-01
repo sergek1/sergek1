@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Sergek
-- 👀 I’m interested in С++ and Android Mobile Development on Kotlin
-- 🌱 I’m currently learning data structures and algorithms on C++ and write applications on Kotlin
+- 👀 I’m С++ and Android Mobile Developer on Kotlin
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/sergeksss)
 
 <!---
