@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sergek
-- 👀 I’m С++ and Android Mobile Developer on Kotlin
+- 👀 I’m Java Developer
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/sergeksss)
 
 <!---
